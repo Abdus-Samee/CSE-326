@@ -9,7 +9,8 @@ It also helps them to learn various topics of Computer Science by taking up a co
 
 [Live Website](https://algolytic.netlify.app)
 
-### Useful drawing tools
+## Useful drawing tools
 
 [draw.io](https://draw.io)
+
 [bpmn.io](https://bpmn.io)
