@@ -9,6 +9,14 @@ It also helps them to learn various topics of Computer Science by taking up a co
 
 [Live Website](https://algolytic.netlify.app)
 
+Only the following modules were developed:
+ - Google Authentication
+ - Problem pool
+ - User progress
+ - Coding problem view and submission
+ 
+The front end was built using `ReactJS`, backend was developed with `Express` hosted on `AWS`, and the database was done with `PostgreSQL`. The live site has been hosted on `Netlify`. The CI/CD pipelining was done by connecting `GitHub` with the hosting sites.
+
 ## Useful drawing tools
 
 [draw.io](https://draw.io)
